@@ -1,0 +1,4 @@
+echo "Installtion process started"
+cp ecfile.sh /usr/bin
+cat ecfile="/usr/bin/ecfile.sh" >> ~/.bash_profile
+. ~/.bash_profile
